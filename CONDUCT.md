@@ -57,7 +57,7 @@ In case of a conflict of interest, you can individually contact:
       * Traefik Labs - Developer Advocate
       * <kevin.crawley@traefik.io>
   * Patricia Dugan
-      * Traefik Labs - Community Manager
+      * Traefik Labs - Head of Community 
       * <patricia.dugan@traefik.io>
 
 ## License
